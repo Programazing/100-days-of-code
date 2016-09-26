@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: [September 21st, 2016](https://twitter.com/Programazing/status/778759015748755456)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I deleted the old version of Open School Library from Github and made a new one. I then uploaded a new blank ASP.NET Core project.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It wasn't really all that difficult but it took longer than I thought it would to get the ASP.NET Core 1.0.1 update to work with the new project. I mostly spent my time running through configuration files and installing things.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Open School Library](https://github.com/Programazing/Open-School-Library)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
