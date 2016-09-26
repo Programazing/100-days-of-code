@@ -27,4 +27,13 @@ I was also happy to learn how to delete then recreate the database from my model
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
 
+### Day 4: [September 24th, 2016](https://twitter.com/Programazing/status/779872928343134208)
+
+**Today's Progress**: I figured out Authorization and failed at LINQ queries.
+
+**Thoughts** I figured out how to hide things from viewers and users in a view depending on their Role or even using a Claim. It's neat and will be useful in the future for hiding certain buttons from everyday users.
+
+I tried to use LINQ to push different information from the controller to the view but I went about it all wrong and just didn't get it to work. There's always tomorrow. 
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
 
