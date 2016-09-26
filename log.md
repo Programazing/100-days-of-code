@@ -8,14 +8,15 @@
 
 **Link to work:** [Open School Library](https://github.com/Programazing/Open-School-Library)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: [September 22nd, 2016](https://twitter.com/Programazing/status/779168747483521026)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I figured out how Code First works and I was able to set up my application so that it will create its own database. I also figured out how to add test data to that database.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really wanted to use Code First because this is an open soruce project. I didn't want other developers relying on the fact that I would remember to upload an sql script to generate an updated version of the database every time I made a change.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+I was also happy to learn how to delete then re-create the database from my models every time I started the project and be able to add the same test data to the newly created database. This ability alone was critical for rapid development and testing of my view models, controllers, and views.
+
+**Link(s) to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
 
 
 ### Day 1: June 27, Monday
