@@ -37,3 +37,12 @@ I tried to use LINQ to push different information from the controller to the vie
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
 
+### Day 5: [September 25th, 2016](https://twitter.com/Programazing/status/780206422332178432)
+
+**Today's Progress**: I was able to pass a single book to the Edit View and also push all of the table information needed from the Genre and Dewey tables to populate Select boxes for the user. I was also able to have the correct genre and dewey for the current book be preselected on load.
+
+**Thoughts** I was absolutely ecstatic when I figured out how to do this using the model vs. using ViewData. I have nothing against ViewData or ViewBag, I just love strongly typed things because it gives you access to Visual Studio's autosuggest which means it will show you if something's wrong while you're working. You won't know if something dynamic, like ViewData, is wrong until runtime.
+
+I know that doesn't sound like much but it took a large perception shift on my end to figure it out.
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
