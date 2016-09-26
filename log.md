@@ -19,12 +19,10 @@ I was also happy to learn how to delete then re-create the database from my mode
 **Link(s) to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
 
 
-### Day 1: June 27, Monday
+### Day 3: [September 23rd, 2016](https://twitter.com/Programazing/status/779327352509718528)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I fixed some of the models, the DbInitializer, and added scaffolding.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I was annoyed that some of the things I made yesterday were wrong and needed to be updated for the models and the DbInitializer to be ussed correctly. After I got all of that working the way it was supposed to I started adding scaffolding based off of my models. It was very difficult but making all of the Controllers and the Views took a while. I even messed up on a few and had to delete the branch and start over. I'm happy I used one branch for each individul model. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
