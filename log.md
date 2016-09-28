@@ -46,3 +46,11 @@ I tried to use LINQ to push different information from the controller to the vie
 I know that doesn't sound like much but it took a large perception shift on my end to figure it out.
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
+
+### Day 6: [September 26th, 2016](https://twitter.com/Programazing/status/780581500664307712)
+
+**Today's Progress**: I worked on a lot of Views and ViewModels
+
+**Thoughts**: Not much to report. I just made a lot of ViewModels, altered a lot of ActionResults in the StudentController, then rearranged a lot of Views.
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
