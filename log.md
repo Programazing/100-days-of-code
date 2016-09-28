@@ -54,3 +54,11 @@ I know that doesn't sound like much but it took a large perception shift on my e
 **Thoughts**: Not much to report. I just made a lot of ViewModels, altered a lot of ActionResults in the StudentController, then rearranged a lot of Views.
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
+
+### Day 7: [September 27th, 2016](https://twitter.com/Programazing/status/780963116276391937)
+
+**Today's Progress**: I worked on just one View, Controller, and ViewModel
+
+**Thoughts**: I had some issues getting a view to display correctly. The issue was the way I crafted the ViewModel and how I tried to populate it in the Controller. It took the entire hour to figure out what I had done wrong. I was stupidly making a reference in the ViewModel to the Entity instead of just making a simple property. 
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
