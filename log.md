@@ -62,3 +62,11 @@ I know that doesn't sound like much but it took a large perception shift on my e
 **Thoughts**: I had some issues getting a view to display correctly. The issue was the way I crafted the ViewModel and how I tried to populate it in the Controller. It took the entire hour to figure out what I had done wrong. I was stupidly making a reference in the ViewModel to the Entity instead of just making a simple property. 
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
+
+### Day 8: [September 28th, 2016](https://twitter.com/Programazing/status/781696187325882368)
+
+**Today's Progress**: I spent the hour creating custom ViewModels
+
+**Thoughts**: Not much to say here. I just spent a lot of time making custom ViewModels for my Views. I just didn't want to use the pre-generated code that called data directly from my database and shoved it to the Views.
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
