@@ -70,3 +70,12 @@ I know that doesn't sound like much but it took a large perception shift on my e
 **Thoughts**: Not much to say here. I just spent a lot of time making custom ViewModels for my Views. I just didn't want to use the pre-generated code that called data directly from my database and shoved it to the Views.
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
+
+### Day 9: [September 29th, 2016](https://twitter.com/Programazing/status/781696397229826048)
+
+**Today's Progress**: I radically altered the Options Index View.
+
+**Thoughts**: I deleted all of the unused CRUD Views for Options and worked on a custom Index View. I couldn't get it to work but I made progress.
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
+
