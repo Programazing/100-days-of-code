@@ -79,3 +79,12 @@ I know that doesn't sound like much but it took a large perception shift on my e
 
 **Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
 
+**[ I will slowly update the days in between. ] **
+
+### Day 65: [November 24th, 2016](https://twitter.com/Programazing/status/801974418675273728)
+
+**Today's Progress**: I finally released version 1.0.0 of the Open School Library project!
+
+**Thoughts**: I feel pumped! Not only is it Thanksgiving I was also able to finish enough of the project requirements to actually release a base stable version. It's taken me a little over two months to finally make this release public. I'm annoyed that it took that long but I wasn't able to give the project the full amount of time it deserved.
+
+**Link to work**: [Open School Library](https://github.com/Programazing/Open-School-Library)
